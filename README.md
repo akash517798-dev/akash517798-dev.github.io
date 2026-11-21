@@ -7,6 +7,4 @@
 </head>
 <body>
   <h1>Namaste</h1>
-  <p>Meri website live ho rahi hai.</p>
-</body>
-</html>
+  <p>Meri website live ho rahi hai
